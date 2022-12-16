@@ -24,7 +24,7 @@ Compare to [Espacio Escultural](https://www.atlasobscura.com/places/espacio-escu
 
 These two similar, yet very different spaces for art got me thinking about how much of art is a matter of scale and perspective. With the "corpuscular" system I wanted to create fantastical vistas. With this variant, which I call "pilares" (pillars/columns) I wish to capture a little bit the sensation of a seeing a sculpture garden from different vantage points. 
 
-Package [{rayrender}](https://www.rayrender.net/index.html) makes it surprisingly easy to to this. Most of the work goes into finding parameters that create pleasing perpsectives. At the moment, I experiment with two colonnades, but it would be interesting to create "gardens" of pillars with other arrangments, such as spirals, etc.
+Package [{rayrender}](https://www.rayrender.net/index.html) makes it surprisingly easy to do this. Most of the work goes into finding parameters that create pleasing perpsectives. At the moment, I experiment with two colonnades, but it would be interesting to create "gardens" of pillars with other arrangments, such as spirals, etc.
 
 ## Preliminaries
 

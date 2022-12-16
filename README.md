@@ -29,7 +29,7 @@ little bit the sensation of a seeing a sculpture garden from different
 vantage points.
 
 Package [{rayrender}](https://www.rayrender.net/index.html) makes it
-surprisingly easy to to this. Most of the work goes into finding
+surprisingly easy to do this. Most of the work goes into finding
 parameters that create pleasing perpsectives. At the moment, I
 experiment with two colonnades, but it would be interesting to create
 “gardens” of pillars with other arrangments, such as spirals, etc.
@@ -200,4 +200,4 @@ render_scene(file = glue::glue("outputs/pilares-{seed}.png"),
              lookat = c(0, 2, 1))
 ```
 
-<img src="outputs/pilares-3832383.png" width="500px" />
+<img src="outputs/pilares-4379842.png" width="500px" />
