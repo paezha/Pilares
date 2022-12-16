@@ -18,7 +18,7 @@ around 2.5 or three meters tall, and the articulation is inviting and
 meditative.
 
 Compare to [Espacio
-Escultural](https://www.atlasobscura.com/places/espacio-escultorico) in
+Escultórico](https://www.atlasobscura.com/places/espacio-escultorico) in
 Mexico City, with its awe-inspiring monumental scale.
 
 These two similar, yet very different spaces for art got me thinking
@@ -200,4 +200,4 @@ render_scene(file = glue::glue("outputs/pilares-{seed}.png"),
              lookat = c(0, 2, 1))
 ```
 
-<img src="outputs/pilares-4379842.png" width="500px" />
+<img src="outputs/pilares-6936251.png" width="500px" />
